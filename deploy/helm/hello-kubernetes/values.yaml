@@ -1,5 +1,5 @@
 # Provide a custom message
-message: ""
+message: "Ca tourne par ici nan ?"
 
 # Remember to set service.type=ClusterIP if you are using an ingress
 ingress:
